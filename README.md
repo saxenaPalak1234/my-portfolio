@@ -1,4 +1,4 @@
-# Akash Shah - Full Stack Developer 👨‍💻
+#Hacktoberfest2023
 
 ## Contact 📧 📞 🌍
 - **Email:** akashshahngu@gmail.com
