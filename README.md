@@ -1,4 +1,6 @@
-#Hacktoberfest2023
+## Hacktoberfest 2023
+
+Welcome to our Hacktoberfest 2023 repository! We're excited to have you contribute to our project. Remember to use the #Hacktoberfest2023 tag when submitting your pull requests!
 
 ## Contact 📧 📞 🌍
 - **Email:** akashshahngu@gmail.com
