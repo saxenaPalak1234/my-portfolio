@@ -35,7 +35,7 @@ export const NavBar = () => {
         <Container>
           <Navbar.Brand href="/">
           <h5 className="logo" style={{ fontWeight: '800', color: '#fff' }}>
-      Coding <br className="d-lg-none" /> Destini
+      Palak <br className="d-lg-none" /> Saxena
     </h5>
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav">
@@ -49,8 +49,8 @@ export const NavBar = () => {
             </Nav>
             <span className="navbar-text">
               <div className="social-icon d-flex">
-                <a href="https://www.linkedin.com/in/akash-shah-17053522a/"><img src={navIcon1} alt="" /></a>
-                <a href="https://github.com/coding-destini"><i class="fa-brands fa-github" style={{color:"white", fontSize:"20px"}} ></i></a>
+                <a href="https://www.linkedin.com/in/palak-saxena-4b896a243/"><img src={navIcon1} alt="" /></a>
+                <a href="https://github.com/saxenaPalak1234"><i class="fa-brands fa-github" style={{color:"white", fontSize:"20px"}} ></i></a>
                 {/* <a href="#"><img src={navIcon3} alt="" /></a> */} {/* will add a link here of youtube in future */}
                </div>
               <HashLink to='#connect'>
