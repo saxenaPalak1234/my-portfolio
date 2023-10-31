@@ -35,7 +35,7 @@ export const NavBar = () => {
         <Container>
           <Navbar.Brand href="/">
           <h5 className="logo" style={{ fontWeight: '800', color: '#fff' }}>
-      Coding <br className="d-lg-none" /> Destini
+      Palak <br className="d-lg-none" /> Saxena
     </h5>
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav">
